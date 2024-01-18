@@ -1,0 +1,14 @@
+dn: uid=eunosf,ou=usuariosInformatica,ou=depinformatica,dc=caminas,dc=mylocal
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: eunosf
+sn: Unos
+givenName: Eusebio
+cn: Eusebio Unos
+displayName: Eusebio Unos
+uidNumber: 7000
+gidNumber: 2000
+userPassword: jUJxldyxqmg10vwmXrb+PhQ+Ym3RBBkNc
+loginShell: /bin/bash
+homeDirectory: /home/eunosf
